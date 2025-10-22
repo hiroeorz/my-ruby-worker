@@ -1,0 +1,6 @@
+name = "my-ruby-worker"
+main = "src/index.ts"
+compatibility_date = "2025-10-22"
+
+[observability]
+enabled = true

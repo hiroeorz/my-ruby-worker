@@ -14,5 +14,10 @@
 		"typescript": "^5.5.2",
 		"vitest": "~3.2.0",
 		"wrangler": "^4.44.0"
+	},
+	"dependencies": {
+		"@ruby/3.4-wasm-wasi": "^2.7.2",
+		"@ruby/wasm-wasi": "^2.7.2",
+		"hono": "^4.10.2"
 	}
 }
